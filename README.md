@@ -116,5 +116,3 @@ Unfortunately, the trust in one's current employer (found in point 4.) does not 
   <img src="https://drive.google.com/uc?export=view&id=1F5igutqWKKHYKiy8kofXcrpGcui0gaPQ" alt="Seller Segments" width="600">
 </div>
 <br>
-
-## Recommendations
