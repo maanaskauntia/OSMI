@@ -27,17 +27,17 @@ The Python script utilized to clean, analyse and visualise the data to answer th
 
 ## Executive Summary
 
-The analysis was performed on a refined dataset of 883 tech-sector employee responses to the 2014 survey. By cross-referencing company size with individual psychological safety, it is observed that mental health support in tech is not just a resource issue, but also a cultural and transparency issue.
+The analysis was performed on a refined dataset of 883 tech-sector employee responses to the 2014 survey. By cross-referencing company size with individual psychological safety, it is observed that mental health support in tech is not just a resource issue, but also a cultural and transparency issue. Here are the key findings summarised:
 
-The Enterprise Gap: Large corporations (1000+ employees) are over 3.3x more likely to provide mental-health benefits than small startups (6-25 employees).
+* `The Enterprise Gap:` Large corporations (1000+ employees) are over 3.3x more likely to provide mental-health benefits than small startups (6-25 employees).
 
-The Privacy Benefit: Guaranteed anonymity increases treatment-seeking by 12% among at-risk employees.
+* `The Privacy Benefit:` Guaranteed anonymity increases treatment-seeking by 12% among at-risk employees.
 
-The Stigma Effect: Employees are 16x more comfortable discussing physical ailments than mental health.  
+* `The Stigma Effect:` Employees are 16x more comfortable discussing physical ailments than mental health.  
 
-The Trust Hierarchy: Employees trust their direct supervisors (40%) significantly more than their peers (18%).
+* `The Trust Hierarchy:` Employees trust their direct supervisors (40%) significantly more than their peers (18%).
 
-The Interview Barrier: While ~40% might talk to a current boss, only ~2% of candidates feel comfortable bringing up mental health in a future job interview.
+* `The Interview Barrier:` While ~40% might talk to a current boss, only ~2% of candidates feel comfortable bringing up mental health in a future job interview.
 
 ## Data Integrity and Initial Checks
 
