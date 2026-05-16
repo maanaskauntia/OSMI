@@ -53,7 +53,7 @@ iv) Relevant conditions- Considering the survey was done for employees within te
 
 After cleaning and formatting, the row count was 883 rows.
 
-## Key Methods and Findings 
+## Key Findings 
 
 Here are the key findings elaborated upon with appropriate visualisations.
 
