@@ -94,9 +94,13 @@ While 75% of employees believed discussing physical health has no negative conse
 
 4. The Peer Trust Gap-
 
-When asked, ""
+The survey also asked participants this pair of questions:
 
-Contrary to intuition, the manager isn't the primary barrier—the coworker is. Employees are more than 2x as likely to be comfortable talking to their supervisor than all their peers, indicating a fear of social judgment or professional competition among equals.
+a) Would you be willing to discuss a mental health issue with your coworkers?
+
+b) Would you be willing to discuss a mental health issue with your direct supervisor(s)?
+
+Contrary to intuition, the direct supervisor isn't the primary barrier to healthy workspace discussion on mental health. Employees are more than 2x as likely to be comfortable talking to their supervisor than all their peers, indicating a fear of social judgment or professional competition among coworkers.
 
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1x7tbyFuVsyKFRliT9gkepUNpZFfQZSgY" alt="Seller Segments" width="600">
@@ -105,7 +109,8 @@ Contrary to intuition, the manager isn't the primary barrier—the coworker is. 
 
 5. Present to Future Trust-
 
-The present trust in one's current employer (found in #4) does not easily translate to trust in a future employer. We can see that only 2% of respondents will bring up a mental health issue in a future job interview. 
+Unfortunately, the trust in one's current employer (found in point 4.) does not easily translate to trust in a future employer. We can see that only 2% of respondents will bring up a mental health issue in a future job interview with a potential employer. 
+
 
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1F5igutqWKKHYKiy8kofXcrpGcui0gaPQ" alt="Seller Segments" width="600">
