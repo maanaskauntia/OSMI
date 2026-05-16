@@ -94,6 +94,8 @@ While 75% of employees believed discussing physical health has no negative conse
 
 4. The Peer Trust Gap-
 
+When asked, ""
+
 Contrary to intuition, the manager isn't the primary barrier—the coworker is. Employees are more than 2x as likely to be comfortable talking to their supervisor than all their peers, indicating a fear of social judgment or professional competition among equals.
 
 <div align="center">
