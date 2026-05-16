@@ -1,5 +1,5 @@
 
-# 'Mental-Health in Tech' USA 2014 Survey Results 
+# 'Mental-Health in Tech' USA 2014 Survey 
 
 ## Project Background
 
